@@ -1,4 +1,5 @@
-*
-*/*
-!./*.cpp
-!*.gitignore
+.vs/
+x64/
+*.sln
+*.vcxproj*
+*.gitignore
